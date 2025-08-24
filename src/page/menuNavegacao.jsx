@@ -10,7 +10,7 @@ export default function MenuNavbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark border border-success">
       <div className="container">
-        <Link className="navbar-brand" to="/"><img src="public/logo.png" alt="" width={'100px'} /></Link>
+        <Link className="navbar-brand" to="/"><img src="/logo.png" alt="" width={'100px'} /></Link>
 
         <button
           className="navbar-toggler"
