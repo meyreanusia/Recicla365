@@ -2,7 +2,8 @@ import { Routes, Route } from "react-router-dom";
 import Login from './page/login'
 import './App.css'
 import Register from "./page/register";
-import MenuNavbar from "./page/menuNavegacao";
+import Locais from "./page/locais";
+import Dashboard from "./page/Dashboard";
 
 function App() {
 
@@ -10,7 +11,8 @@ function App() {
     <Routes>
       <Route path="/" element={<Login />} />
       <Route path="/register" element={<Register />} />
-      <Route path="/navegacao" element={<MenuNavbar/>}></Route>
+      <Route path="/locais" element={<Locais/>}></Route>
+      <Route path="/dashboard" element={<Dashboard/>}></Route>
    </Routes>
   )
 }
