@@ -1,24 +1,26 @@
 # 📘 Recicla365
 
-O Recicla365 é uma plataforma que facilita o gerenciamento de resíduos e o acesso a pontos de coleta de materiais recicláveis.
-Nosso objetivo é tornar o processo de descarte consciente mais simples, ajudando pessoas e organizações a encontrarem pontos de coleta e a acompanharem seu impacto ambiental. 🌱
+O **Recicla365** é uma plataforma que facilita o gerenciamento de resíduos e o acesso a pontos de coleta de materiais recicláveis.  
+Nosso objetivo é tornar o processo de descarte consciente mais simples, ajudando pessoas e organizações a encontrarem pontos de coleta e acompanharem seu impacto ambiental. 🌱
+
+---
 
 
 # 🚀 Tecnologias
 
-- React com Vite
-
-- React Router DOM 🔀
-
-- Material UI 🎨
+- **React** com **Vite** ⚡
+- **React Router DOM** 🔀
+- **Bootstrap 5** 🎨
+- **JavaScript (ES6+)**
+- **CSS/HTML5**
 
 # 📦 Pré-requisitos
 
-Antes de começar, você precisa ter instalado na sua máquina:
+Antes de começar, você precisa ter instalado em sua máquina:
 
-- Node.js (versão 18 ou superior)
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)  
+- npm (vem com Node.js) ou [yarn](https://yarnpkg.com/)  
 
-- npm ou yarn
 
 # 🛠️ Como rodar o projeto
 
